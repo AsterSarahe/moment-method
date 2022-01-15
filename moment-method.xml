@@ -280,9 +280,19 @@
 </momnent>
 
 <moment mode="omniscient" function="*CHITDS" action="display">
-	<title>Mnemonic™</title>
+	<title>Mnemonics™</title>
 		<b-tree mode="conceptualico">foo * bar * baz</b-tree>
 		<Theosophyy>alpha-infinite.omega</Theosophy>
+		<music></music>
+		<name></name>
+		<expression></expression>
+		<model></model>
+		<rhymess></rhymess>
+		<Note type="Organization"></Note>
+		<image></image>
+		<connection></connection>
+		<spelling></spelling>
+		<template id="bool=?THIS"></template>
 </moment>
 
 <moment attunement="TRUE" mode="psionic" function="*CHITDS" signature="CHS">
