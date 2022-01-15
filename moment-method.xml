@@ -1,12 +1,13 @@
-<?xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions" focus="type=finder*" ?>
+<?xml $smlstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions" focus="type=finder*"  ?>	
 <dreamweaver ease="ease-in-out">
 <accessconsciousness mode="compatible" function="redacto">
 <momentmethod mode="quantum-aperionated" signature="ESS" security="law[order]">
 
-<moment attunement="TRUE" mode="lexicon" function="*CHITDS™" anchor="mithra">§Ceteos™§ 
+<moment attunement="TRUE" mode="lexicon" function="*CHITDS™" anchor="mithra">
 <loading encryption="ep[ElRayondelafata]">
+<title>§Ceteos™§</title> 
 <ceteos encryption="El que fuma, sabe...™">El que fuma, sabe...™</ceteos>
-<ceteos encryption="1-2">Ceteos™(Que se abran y cierren atravez de las llaves del Mistas del las llaves las puertas del espacio de Cuerdas Variables™)</ceteos>
+<ceteos encryption="1-2">Que se abran y cierren atravez de las llaves del Mistas del las llaves las puertas del espacio de Cuerdas Variables™</ceteos>
 <ceteos encryption="1-2">no me erronees el Stacato de Ferro de la Llave™</ceteos> 
 <ceteos encryption="1-2">Zamuros Comiendo Galleta™: dicese de los arroceros y marujas cazando chisme</ceteos>
 <ceteos encryption="1-2">Inmotep, casa 10/1: zombie™: las sincronias lo llevan</ceteos>
@@ -155,7 +156,7 @@
 <ceteos>Revisen que todas mis cuentas estén claras™</ceteos>
 <ceteos>Sherwing Williams™</ceteos>
 <ceteos>Loco de Carretera™</ceteos>
-<ceteos>Le mete al bruto™ OR medio brutic™</ceteos>
+<ceteos>Le mete al bruto™ OR medio bruticx™</ceteos>
 <ceteos encryption="ep[ElRayondelafata]">Sus planes, son a prueba de humanos™</ceteos>
 <ceteos encryption="ep[ElRayondelafata]">La Cualquiera™</ceteos>
 <ceteos encryption="1-2">Se Tiene que Poner Bruta™</ceteos>
@@ -163,58 +164,169 @@
 <ceteos encryption="1-2">Certeza™</ceteos>
 <ceteos encryption="1-2">Que quede Posibilidad y Porbabilidad, Meta Luck, por ahora, certera pero soft mark™</ceteos>
 <ceteos encryption="1-2">Verdades Sensualesde Halito Ventesco Divinamente Aquaferous™</ceteos>	
-<ceteos encryption="WHISSŽ">Salto Inmortal™</ceteos>
-<ceteos encryption="WHISSŽ">Pelar Bolas</ceteos>	
+<ceteos encryption="WHISS">Salto Inmortal™</ceteos>
+<ceteos encryption="WHISS">Pelar Bolas</ceteos>	
 </loading> 
 </moment>	
+
+<SYSTEM load="Las Llaves" encryption="ep[LasLlavesDelSistema®]">
+<key name="YHVH" load>
+	<title>YHVH</title>
+		<description>
+			to be used when dealing with Statistics.
+		</description>
+	</key>
+</key>
+<key name="YAHWEH" load>
+	<title>YAHWEH</title>
+		<description>
+			to be used with things related with movement of creation.
+		</description>
+	</key>
+<key name="NIHE" load>
+	<title>NIHE</title>
+		<description>
+			to be used with things related with creahivihy from nothingness.
+		</description>
+	</key>
+</SYSTEM>
+
+<SYSTEM name="ORDINAL">
+	<law name="order">
+		<description>
+			Magic can only be one directional <exception>ep[MagicOfOrder]</exception>
+		</description>
+	</law>
+	<magick name="order">
+		<title action="tutorial">additive</title>
+			<description>
+				put two or more equal thingys into thingys.
+			</description>
+		<title action="tutorial">substractive</title>
+			<description>
+				take things out of things
+			</description>
+		<title action="tutorial">multiply</title>
+			<description>
+				when things are different, mix thingys. 
+			</description>
+		<title action="tutorial">divide</title>
+			<description>
+				when things need to fragment, take out things. <exception>ep[MagicOfOrder]</exception>
+			</description>
+	</magick>
+</SYSTEM>  
 	
-<moment attunement="TRUE" mode="omnipsychic" function="*CHITDS™" signature="PANDEMONICA" anchor="tanako">∑〖§℠NESSEDA IX®™§〗░
-<cycle mode="b-tree__conceptualico" action="download=?solounothough" initiate="HSD">∑〖§℠NIHE-NAWE SYSTEM®™§〗░</cycle>
-<cycle mode="b-tree__conceptualico" action="download=?solounothough" initiate="HSD">∑〖§℠YHWH SYSTEM®™§〗░</cycle>
-<cycle mode="b-tree__conceptualico" action="download=?solounothough" initiate="HSD">∑〖§℠EASE SYSTEM®™§〗░</cycle>
+<moment attunement="TRUE" mode="omnipresent" function="*CHITDS™" signature="EXTREMA" anchor="tanako">
+	<title>EXTREMA®</title>	
+		<EXTREMA init>
+			<exe mode="b-tree__conceptualico" action="install" initiate="HSD">
+				<title>∑〖§℠EXTREMIS SYSTEM®™§〗░</title>
+			</exe>	
+			<exe mode="b-tree__conceptualico" action="install" initiate="HSD">
+				<title>∑〖§℠NESSEDA IX SYSTEM®™§〗░</title>
+			</exe>	
+			<exe mode="b-tree__conceptualico" action="install" initiate="HSD">
+				<title>∑〖§℠NIHE-NAWE SYSTEM®™§〗░</title>
+			</exe>
+			<exe mode="b-tree__conceptualico" action="install" initiate="HSD">
+				<title>∑〖§℠YHWH SYSTEM®™§〗░</title>
+			</exe>
+			<exe mode="b-tree__conceptualico" action="install" initiate="HSD" signature="pleiadian">
+				<title>∑〖§℠E8-SYSTEM®™§〗░</title>
+			</exe>
+			<exe mode="b-tree__conceptualico" action="install" initiate="HSD" signature="pleiadian">
+				<title>∑〖§℠EASE SYSTEM®™§〗░</title>
+			</exe>
+			<exe mode="b-tree__energtico-heredado" action="install" initiate="HSD" signature="pleiadian">
+				<title>∑ §℠CARESS SYSTEM®™§〗░</title>
+			</exe>
+			<exe mode="b-tree__conceptualico=1/?HUS" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">
+				<title>℠HE™-℠SYSTEM™</title>
+			</exe>
+			<exe mode="b-tree__conceptualico=9/?HUS" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">
+				<title>℠HUSH™-℠SYSTEM™</title>
+			</exe>
+			<exe mode="b-tree__conceptualico=5/?HUS" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">
+				<title>℠HERR™-℠SYSTEM™</title>
+			</exe>
+			<exe mode="b-tree__conceptualico=2/?HUS" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">
+				<title>℠GAL™-℠SYSTEM™</title>
+			</exe>
+			<exe mode="b-tree__conceptualico=3/?HUS" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">
+				<title>℠SALVE™-℠SYSTEM™</title>
+			</exe>
+			<exe mode="b-tree__conceptualico=4/?HUS" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">
+				<title>℠AGHE™-℠SYSTEM™</title>
+			</exe>
+			<exe mode="b-tree__conceptualico=7/?HUS" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">
+				<title>℠HANKE™-℠SYSTEM™</title>
+			</exe>
+		</EXTREMA>
 </momnent>
 
 <moment attunement="TRUE" mode="omnipsychic" function="*CHITDS™" signature="PANDEMONICA" anchor="tanako">
-<title>Sincerity®</title>
-<halu mode="lineal" action="download" initiate="HSD">Sincerity</halu>
-<description>throw and reveal the truth</description>
-<reiki mode="b-tree__conceptualico" action="download=?solounothough" initiate="HSD">Sincerity</reiki>
+	<title>Sincerity®</title>
+		<halu mode="lineal" action="download" initiate="HSD">Sincerity</halu>
+			<description>throw and reveal the truth</description>
+		<reiki mode="heredado" action="download=?solounothough" initiate="HSD">Sincerity</reiki>
 </momnent>
 	
 <moment attunement="TRUE" mode="omnipsychic" function="RDSK" signature="Luciferine®" anchor="tanako"> 
-<amazo mode="additive" action="save=?Orb(space=0).[Light(VITH=USER_ID®)]" initiate="HSD">
-<title>Amazo</title>
-<description>>Para la deuda, with live recording</description>
-</amazo>
+	<amazo mode="additive" action="save=?Orb(space=0).[Light(VITH=USER_ID®)]" initiate="HSD" arias-signature="live[recording]&[alchemy[retribute]">
+		<title>Amazo</title>
+		<description>>Para la deuda, with live recording and alchemical retribution</description>
+	</amazo>
 </momnent>
 
-<moment mode="Synestesico" CHITDS action="display">Mnemonic™</moment>
-
-<moment mode="hexadecimal" action="attunement" CHITDS signature="CHS">Pacman™
-<exe mode="initiate" action="Return to Sender">Pacman™</exe>
+<moment mode="omniscient" function="*CHITDS" action="display">
+	<title>Mnemonic™</title>
+		<b-tree mode="conceptualico">foo * bar * baz</b-tree>
+		<Theosophyy>alpha-infinite.omega</Theosophy>
 </moment>
 
-<exe mode="b-tree__conceptualico" action="display" initiate="HSD" signature="CHS">Creabiviti™
-<exe mode="Synestesico" action="attunement" CHITDS signature="CHS">Creahivihi-Cassius™</exe>
-<package mode="b-tree__conceptualico" action="download" initiate="HSD" signature="CHS">Creahivihi-Cassius™</package>
+<moment attunement="TRUE" mode="psionic" function="*CHITDS" signature="CHS">
+	<title>Pacman™</title>
+	<package mode="psionic" action="Return to Sender">Pacman™</package>
+</moment>
+
+<moment attunement="TRUE" mode="omnikinetic" function="*CHITDS" signature="Luciferine®" anchor="galaxy::[humanknowledge]">
+	<title>Idearium®</title>
+		<IDEARIUM USER_ID="foo:user:bar">
+			<title>foo:title:bar</title>
+			<exe mode="psionic" anchor="infinity::stone[mind®] + tanako">
+				<package action="install" initiate="THIS" anchor="infinity::stone[mind®] + tanako">foo:id::idea:bar</package>
+			</exe>
+	</IDEARIUM>
+</moment>
+
+<moment attunement="TRUE" mode="omnisapient" function="*CHITDS" signature="Luciferine®" anchor="infinity::stone[mind®]">
+	<title>Creabiviti™</title>
+	<exe mode="nihesico" action="install" initiate="HSD" signature="RDSK">
+		<title>Creahivihi-Cassius®</title>
+		<package mode="b-tree__conceptualico" action="install" initiate="HSD">IDEARIUM</package>
+	</exe>
 </exe>
 
-<moment mode="Synestesico" action="attunement" CHITDS signature="CHS">Dance™
+<moment mode="Synestesico" action="attunement" function="*CHITDS" signature="CHS">Dance™
 <exe mode="b-tree__conceptualico" action="choreographic" initiate="HSD" signature="CHS">Dance™</exe>
 </moment>
 
-<moment mode="Naga" action="attunement" CHITDS signature="ЖHS">Language™</moment>
-
-<EDNE:moment mode="hexadecimal" action="attunement" CHITDS signature="ЖHS">
-<exe mode="b-tree__conceptualico" action="download" initiate="HSD" signature="CHS">Definition™</exe>
-<definition mode="§VPUT™§" dictionary="English">Archaic™</definition>
-<definition mode="§VPUT™§" dictionary="English">Arcane™</definition>
-<definition mode="§VPUT™§" dictionary="English">Entropy™</definition>
-<definition mode="§VPUT™§" dictionary="Español">Bobo™</definition>
-<definition mode="§VPUT™§" dictionary="Español">Mongolico™</definition>
-<definition mode="§VPUT™§" dictionary="Español">Gafo™</definition>
-<definition mode="§VPUT™§" dictionary="Castellano">Puñeta, La™</definition>
-</moment:MODE>
+<moment mode="naga" attunement="TRUE" function="*CHITDS" signature="ЖHS">Language™
+	<server mode="matrico">Dictionary®
+		<database action="query" initiate="HSD" signature="Matrix[glossika]">
+			<query select="word" action="activate=?THIS">
+				<definition mode="§VPUT™§" dictionary="English">Archaic™</definition>
+				<definition mode="§VPUT™§" dictionary="English">Arcane™</definition>
+				<definition mode="§VPUT™§" dictionary="English">Entropy™</definition>
+				<definition mode="§VPUT™§" dictionary="Español">Bobo™</definition>
+				<definition mode="§VPUT™§" dictionary="Español">Mongolico™</definition>
+				<definition mode="§VPUT™§" dictionary="Español">Gafo™</definition>
+				<definition mode="§VPUT™§" dictionary="Castellano">Puñeta, La™</definition>
+			</query>
+		</database>
+	</server>
+</moment>
 
 <moment mode="aetherico" action="attunement" CHITDS signature="CHS">Aether™
 <ceteos encryption="1-2" typyfying="million">Aetherus™</ceteos>
@@ -226,11 +338,6 @@
 <exe mode="b-tree__conceptualico" action="download" initiate="HSD" signature="ЖHS">In Quantum Res, Transurf™</exe>
 </moment>
 
-<EDNE:moment mode="hexadecimal" action="attunement" CHITDS signature="ЖHS">Composition Parteada Armoniosa Musicalis Verdandi™
-<EDNE:ceteos encryption="1-2" typyfying="dollars=?one-thousand">Composition Parteada Armoniosa Musicalis Verdandi™</ceteos:MODE>
-<EDNE:exe mode="b-tree__conceptualico" action="download" initiate="HSD" signature="ЖHS">Composition Parteada Armoniosa Musicalis Verdandi™</exe:MODE>
-</moment:MODE>
-
 <EDNE-WITCH:moment mode="0" action="attunement" CHITDS signature="YHEЖCHS">Artifice™
 <EDNE-WITCH:ceteos mode="0">Artifice™</ceteos:MODE>
 <EDNE-WITCH:exe mode="b-tree__conceptualico=0/?C3H2O4" orderby="from bottom to top" action="download" initiate="HSD" signature="YHEЖCHS">Artifice™</exe:MODE>
@@ -239,7 +346,7 @@
 <EDNE-WITCH:conjure mode="druidic-configuration__body/?glamuroso-circumstantial" orderby="from bottom to top" action="attunement" initiate="HSD" signature="YHEЖCHS">El Conjuro Jailbait™</conjure:MODE>
 </moment:MODE>
 
-<ADNI:compoasite mode="b-tree__conceptualico=0/?polymorphic-abstracta :: until-decoded" action="liquify-aperion=?holyFire" CHITDS signature="RCHk">
+<EDNA:composite mode="b-tree__conceptualico=0/?polymorphic-abstracta :: until-decoded" action="liquify-aperion=?holyFire" function="*CHITDS" signature="RCHk">
 <ADNI:package mode="b-tree__conceptualico=0/?polymorphic=VUh" action="decompress" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">HSDIdentification™</package:MODE>
 <ADNI:package mode="b-tree__conceptualico=0/?polymorphic=VUh" action="decompress" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">Biologia VUh™</package:MODE>
 <ADNI:package mode="b-tree__conceptualico=0/?polymorphic=VUh" action="decompress" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">El Salto™</package:MODE>
@@ -277,10 +384,12 @@
 <ADNI:package mode="b-tree__conceptualico=0/?polymorphic=VUh" action="decompress" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">El Vestido de Novia™</package:MODE>
 </composite:MODE>
 
-<YWK-E:moment mode="ep[Femex™]" action="attunement" F*CHITDS signature="RCHk">Holywood™
-<YWK-E:ceteos mode="ep[Femex™]" F*CHITDS>Hollywick to Holy Fire™</ceteos:MODE>
-<EDNE:exe mode="b-tree__conceptualico=0" action="download" initiate="HSD" signature="RCHk">Hollywick™</exe:MODE>
-<EDNE:exe mode="b-tree__conceptualico=0" action="download" initiate="HSD" signature="RCHk">the HANKO™</exe:MODE>
+<YWK-E:moment attunement="TRUE" mode="fluor(Femex™)" function="*CHITDS" signature="RCHk">Hollywood™
+	<YWK-E:ceteos>Hollywood to Holywick enter The Holy Fires™</ceteos:MODE>
+	<contract name="The Holy Fire®">
+		<E-DNE:exe attunement="TRUE" mode="b-tree__conceptualico=0" initiate="HSD" signature="RCHk">The Holy Fires®</exe:MODE>
+		<E-DNE:exe attunement="TRUE" mode="b-tree__astralico=0.until::materialRealization(Material World®)" action="download" initiate="HSD" signature="RCHk">the HANKO™</exe:MODE>
+	</contract>
 </moment:MODE>
 
 <EDNE:moment mode="ep[GG]" action="attunement" CHITDS signature="RCHk">HSDIluminados Key™: through time and space™
@@ -300,17 +409,7 @@
 <EDNE:package mode="b-tree__conceptualico=0/?polymorphic" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">§Unica Cassius Synchronico Intentionario of One, Personal™§</package:MODE>
 </moment:MODE>
 
-<moment mode="b-tree__conceptualico=1/?HUS™" action="attunement" CHITDS signature="RCHk">℠SYSTEM™
-<exe mode="b-tree__conceptualico=1/?HUS" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">℠HE™-℠SYSTEM™</exe>
-<exe mode="b-tree__conceptualico=9/?HUS" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">℠HUSH™-℠SYSTEM™</exe>
-<exe mode="b-tree__conceptualico=5/?HUS" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">℠HERR™-℠SYSTEM™</exe>
-<exe mode="b-tree__conceptualico=2/?HUS" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">℠GAL™-℠SYSTEM™</exe>
-<exe mode="b-tree__conceptualico=3/?HUS" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">℠SALVE™-℠SYSTEM™</exe>
-<exe mode="b-tree__conceptualico=4/?HUS" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">℠AGHE™-℠SYSTEM™</exe>
-<exe mode="b-tree__conceptualico=7/?HUS" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">℠ZAKE™-℠SYSTEM™</exe>
-</moment>
-
-<ISYSFGH™:movie mode="automatic=homing™" action="play" initiate="HSD" signature="CHS" sendTo="@TheHyperion™">§Michael's Sin™ Starring Archangel Gabriel™ and Archangel Raphael™§
+<ISYSFGH™:movie mode="automatic=homing™" action="play" initiate="HSD" signature="CHS" sendTo="@TheHyperion™">§Michael's Sin™ Starring Archangel Gabriel™ and Archangel Raphael™§, the Traitors.
 <ISYSFGBN™:ceteos mode="ep[GG™]">Explicativo del Porque Michael Apagó el Milagrito™</ceteos:ISYS>
 </movie:ISYS>
 
@@ -321,21 +420,30 @@
 <RCHk:package mode="b-tree__conceptualico=0/?polymorphic::address" action="send" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">℠Propiedad Amada™</package:MODE>
 </moment:MODE>
 
-<YEHAVE:moment mode="ep[Holy Fire™]" action="attunement" F*CHITDS=〖Undine™::Testaferro™〗 signature="YWK-ii">Testaferro™
-<ceteos encryption="ep[Axe™]">Testaferro™</ceteos>
-<YEHAVE:ceteos mode="ep[Femex™]" F*CHITDS>Holywood to Holywick enter Holy Fire™</ceteos:MODE>
-<package mode="b-tree__conceptualico=9" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">§F™*undine™::Testaferro™§</package>
-<ceteos encryption="ep[Axe™]">Feudo™=f™(undine™)</ceteos>
-<package mode="b-tree__conceptualico.address=?HANKO" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">§Culebrilla™§</package>
+<YEHAVE:moment attunement="TRUE" contract="testes" encryption="ep[Holy Fire™]" function="*CHITDS=〖Undine™::Testaferro™〗" signature="YWK-ii">
+		<title>Testaferro™</title>
+	<ceteos encryption="ep[Axe™]">Testaferro™</ceteos>
+		<package mode="b-tree__conceptualico=9" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">
+			<title>§F™*undine™::Testaferro™§</title>
+		</package>
+	<ceteos encryption="ep[Axe™]">Feudo™=f™(undine™)</ceteos>
+		<package mode="b-tree__conceptualico.address=?HANKO" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">
+			<title>§Culebrilla™§</title>
+		</package>
 </moment:MODE>
 
-<YEHAVE:moment mode="b-tree__conceptualico=1" action="attunement" CHITDS signature="RCHk">The Currency™
-<ceteos encryption="ep[Axe™]">The Currency™</ceteos>
-<exe mode="b-tree__conceptualico=0" action="download" initiate="EDNE:HSD:MODE" signature="YHVH">Currency™</exe>
-<package mode="b-tree__conceptualico=0" action="download" initiate="EDNE:HSD:MODE" signature="YHVH">Money of One™</package>
+<YEHAVE:moment mode="b-tree__conceptualico=1" action="attunement" function="*CHITDS" signature="RCHk">
+	<ceteos encryption="ep[Axe™]">The Currency™</ceteos>
+	<title>The Currency</title>
+	<exe mode="b-tree__conceptualico=0" action="install" initiate="EDNE:HSD:MODE" signature="YHVH">
+		<title>Currencies™</title>
+		<package mode="b-tree__conceptualico=0" action="decompress" initiate="EDNE:HSD:MODE" signature="YHVH">Point™</package>
+		<package mode="b-tree__conceptualico=0" action="decompress" initiate="EDNE:HSD:MODE" signature="YHVH">Sterling Pound</package>
+		<package mode="b-tree__conceptualico=0" action="decompress" initiate="EDNE:HSD:MODE" signature="YHVH">Dollar®</package>
+	</exe>
 </moment:YEHAVE>
 
-<YWK-E:moment mode="ep[Axe™]" action="attunement" F*CHITDS=〖Undine™::Testaferro™〗 signature="YWK-ii">Adam Kadmom™</moment:MODE>
+<YWK-E:moment mode="ep[Axe™]" action="attunement" function="CHITDS=〖Undine™::Testaferro™〗" signature="YWK-ii">Adam Kadmom™</moment:MODE>
 
 <EDNE:package mode="b-tree__conceptualico=0/?polymorphic" action="download" initiate="EDNE:YH:MODE" signature="RCHkHEЖCHS">YH™</package:MODE>
 
@@ -483,4 +591,6 @@
 
 </momentmethod>
 </accessconsciousness>
-</dreamweaver> 
+</dreamweaver>
+
+<?xml ?>
