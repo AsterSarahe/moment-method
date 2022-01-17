@@ -208,7 +208,7 @@
 			<exe mode="b-tree__conceptualico=7/?HUS" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">
 				<title>℠HANKE™-℠SYSTEM™</title>
 			</exe>
-			<exe mode="b-tree__conceptualico=7/?HUS" action="install" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS" restricted>
+			<exe mode="b-tree__conceptualico=7/?GEMA" action="install" initiate="EDNA:HSD:MODE" signature="RCHkHEЖCHS" restricted>
 				<title>WILLOW®</title>
 				<WILLOW init>
 				</WILLOW>
@@ -218,7 +218,10 @@
 
 <SYSTEM name="WILLOW">
 <WILLOW>
-	<moment type="paradoxController();" name="multiply" action="x**z">
+	<moment type="paradoxController(GEMA);" name="GEMA" action="x**z">
+		puts side . control(LEFT) . result[side . right(EYE) == side . left(EYE)] end
+	</moment>
+	<moment type="paradoxController(math);" name="multiply" action="x**z">
 		puts control(BROWN) . result[eyes(BLUE, GREEN, HAZEL, RAINBOW, PURPLE, PINK) * = RESULT] end
 	</moment>
 </WILLOW>
