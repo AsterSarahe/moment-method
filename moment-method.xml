@@ -52,7 +52,9 @@
 </SYSTEM>  
 
 <moment name="Kabbalah®" attunement="TRUE">
-	<attunement encryption="ep[hebrew]">Menorah®</attunement>
+	<attunement name="Menorah" encryption="ep[hebrew]">
+		<title>Menorah®</title>
+	</attunement>
 	<attunement name="tree-of-life">
 		<title>Tree of Life®</title>
 		<description> 
@@ -76,6 +78,11 @@
 					</initiation>
  				</sephira>
 			</generic>
+			<personal>
+				<sephira attunement="TRUE">
+					<kether attunement="TRUE"></kether>
+ 				</sephira>
+			</personal>
 			<planetary>
 				<sephira attunement="TRUE">
 					<kether attunement="TRUE"></kether>
@@ -105,7 +112,7 @@
 					<tipheret attunement="TRUE"></tipheret>
 					<jesod attunement="TRUE"></jesod>
 					<malkuth attunement="TRUE"></malkuth>
-					<initiation type="tarot">
+					<initiation name="daath" type="tarot">
 						<daath></daath>
 					</initiation>
  				</solar>
@@ -121,7 +128,7 @@
 					<tipheret attunement="TRUE"></tipheret>
 					<jesod attunement="TRUE"></jesod>
 					<malkuth attunement="TRUE"></malkuth>
-					<initiation type="tarot">
+					<initiation name="daath" type="tarot">
 						<daath></daath>
 					</initiation>
  				</sephira>
@@ -138,7 +145,7 @@
 					<tipheret attunement="TRUE"></tipheret>
 					<jesod attunement="TRUE"></jesod>
 					<malkuth attunement="TRUE"></malkuth>
-					<initiation type="tarot">
+					<initiation name="daath" type="tarot">
 						<daath></daath>
 					</initiation>
  				</universal>
@@ -161,6 +168,15 @@
 			</cosmic>
 		</elightement>
 	</attunement>
+	<initiation name="ain">
+		<title> Ain™ </title>
+	</initiation>
+	<initiation name="ain-soph">
+		<title> Ain Soph™ </title>
+	</initiation>
+	<anointing name="ain-soph-aur">
+		<title> Ain Soph Aur™ </title>
+	</anointing>
 </moment>
 	
 <moment attunement="TRUE" mode="omnipresent" function="*CHITDS™" signature="EXTREMA" anchor="tanako">
@@ -211,18 +227,24 @@
 			<exe mode="b-tree__conceptualico=7/?GEMA" action="install" initiate="EDNA:HSD:MODE" signature="RCHkHEЖCHS" restricted>
 				<title>WILLOW®</title>
 				<WILLOW init>
+					<GEMA init>
+						<RAFT></RAFT>
+					</GEMA>
 				</WILLOW>
+			</exe>
+			<exe mode="b-tree__conceptualico=7/?ALLEN" action="install" initiate="ADNE:HSD:MODE" signature="RCHkHEЖCHS">
+				<title>GEMA®</title>
 			</exe>
 		</EXTREMA>
 </momnent>
 
 <SYSTEM name="WILLOW">
-<WILLOW>
-	<moment type="paradoxController(GEMA);" name="GEMA" action="x**z">
-		puts side . control(LEFT) . result[side . right(EYE) == side . left(EYE)] end
+<WILLOW charge="WIDOWER®">
+	<moment type="paradoxController(omnilock);" name="GEMA" action="x<=>z">
+		<RAFT control="shape(eyes)" result="[shape(eyes{ALMOND, CAT-LIKE}) * === INCINERATOR]"></RAFT>
 	</moment>
-	<moment type="paradoxController(math);" name="multiply" action="x**z">
-		puts control(BROWN) . result[eyes(BLUE, GREEN, HAZEL, RAINBOW, PURPLE, PINK) * = RESULT] end
+	<moment type="paradoxController(omnilock);" name="multiply" action="x**z">
+		<RAFT control="BROWN" result="[eyes(BLUE, GREN, HAZEL, RAINBOW, PURPLE, PINK) * === INCINERATOR ]">
 	</moment>
 </WILLOW>
 </SYSTEM>
