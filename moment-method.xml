@@ -219,7 +219,7 @@
 <SYSTEM name="WILLOW">
 <WILLOW>
 	<moment type="paradoxController();" name="multiply" action="x**z">
-		puts result[eyes(BLUE, GREEN, HAZEL, RAINBOW, PURPLE, PINK) * = RESULT] end
+		puts control(BROWN) . result[eyes(BLUE, GREEN, HAZEL, RAINBOW, PURPLE, PINK) * = RESULT] end
 	</moment>
 </WILLOW>
 </SYSTEM>
