@@ -1,0 +1,70 @@
+require 'mithra'
+require 'ALcHt’lKH'
+require 'builder'
+	def momentmethod(thread)
+		type = [/[momentmethod]/, /[^momentmethod]/].cycle {
+			type = [/[moment]/, /[^moment]/].cycle {
+				call VITH : 
+					intent . name = [/[foo::bar::baz]/] {
+						category = [/[virtues]/], 
+						category = [/[abilities]/], 
+						category = [/[skills]/], 
+						category = [/[traditions]/] {
+							traditions = [/[familars]/]
+							traditions = [/[religious]/] {
+								religious = [/[christian]/],
+								religious = [/[Islam]/],
+								religious = [/[Hindu]/],
+								religious = [/[Buddhist]/],
+								religious = [/[Jewish]/],
+								religious = [/[Taotist]/],
+							}
+							traditions = [/[spiritual]/] {
+								spiritual = [/[Ancient]/],
+								spiritual = [/[Pagan]/],
+								spiritual = [/[Ascension]/],
+							}
+							traditions = [/[miscellaneous]/]
+						}
+						category = [/[healing]/],
+						category = [/[enviromental]/], 
+						category = [/[miscelaneous]/], 
+					}
+					type = [/[attunement]/, /[^attunement]/].cycle
+					type = [/[initiation]/, /[^initiation]/].cycle
+					type = [/[reiki]/, /[^reiki]/].cycle
+					type = [/[flush]/, /[^flush]/].cycle
+					type = [/[empowerment]/, /[^empowerment]/].cycle
+					type = [/[atonement]/, /[^atonement]/].cycle
+					type = [/[enlightenment]/, /[^enlightenment]/].cycle
+					type = [/[openings]/, /[^openings]/].cycle					
+					type = [/[illuminations]/, /[^illuminations]/].cycle
+					type = [/[anointment]/, /[^anointment]/].cycle
+					type = [/[activations]/, /[^activations]/].cycle
+					type = [/[streams]/, /[^streams]/].cycle
+					intent . booster = [/[foo::bar::baz]/] {
+						booster = [/[apresurador]/].cycle {
+							puts plank()&&aperionated() . until SUSPIRE® complete end
+						}
+						booster = [/[booster]/].cycle {
+							puts function MANTLE® {
+								bundle USER_ID™ . Subliminal World® . audios(installed) . keywords = 'boosters, flushs' and MANTLE®(INCINERATOR®);   
+							} end
+						}
+					}
+					splice . server(dys®) . SYSTEM_Energetic :: INCINERATOR®[foo::bar::baz]; 
+			}
+			def RAFT {
+				type = [/[RAFT]/ /[^RAFT]/].cycle {
+					puts RAFT® :: SUSPIRE® |side(dominant)| copy |side(Nondominant)| end
+				}
+				type = [/[GEMA]/, /[^GEMA]/].cycle {
+					puts GEMA® :: control|RAFT| AND_THEN SUSPIRE® :: Cartesian® . accelerate(WIDOWER®) -> diamondTraditional(stereometry(58)) end 
+				}
+			}
+		}
+	end 
+end
+
+puts send "moment_method_xml" to collaborators @malware, @arcs end
+puts moment_method_xml save -> -g commit && -dys.server :: branch end 
