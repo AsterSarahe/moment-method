@@ -564,8 +564,8 @@
 		<product owner="Dysjumpia®" name="momentmethod" id="momentmethod"> 
 			<sprints name="WILLOW®" mode="b-tree__conceptualico=?task . splice">
 				<user-story name="Cartesian®">
-					<backlog system="metric" priority="assigned by SKRÅM®">
-						<tasks name="Wizard's Receptors and Effectors®" system="metrics(points[99])" id="assigned by SKRÅM®" priority="assigned by SKRÅM®" colaborators="@ClowReed @Arcs @ARCLovelyNoMore @Archons @ArchamgusLeage">
+					<backlog system="metric" priority="assigned by @SKRÅM®">
+						<tasks name="Wizard's Receptors and Effectors®" system="metrics(points[99])" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="@ClowReed @Arcs @ARCLovelyNoMore @Archons @ArchamgusLeage">
 							<title>
 								Wizard's Receptors and Effectors®
 							</title>
@@ -573,19 +573,19 @@
 								Create with the Virgin(@Guadalupe®) the Wizards (male and female I'm looking at you @ClowReed) Receptors and Effectors. 
 							</description>
 						</tasks>
-						<tasks name="Inmortalis Aeternae Immemorial Semper Petra™ Astrology™ Perpetua®" system="metrics(points[120])" id="assigned by SKRÅM®" priority="assigned by SKRÅM®">
+						<tasks name="Inmortalis Aeternae Immemorial Semper Petra™ Astrology™ Perpetua®" system="metrics(points[120])" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®">
 							<title>Inmortalis Aeternae Immemorial Semper Petra™ Astrology™ Perpetua®</title>
 							<description>Dysjumpia® Template for immortality</description>
 						</tasks>
 					</backlog>
-					<tasks name="Developing Cartesian® Machine" id="01" splice="TRUE" priority="assigned by SKRÅM®" colaborators="assigned by SKRÅM®">
+					<tasks name="Developing Cartesian® Machine" id="01" splice="TRUE" priority="assigned by @SKRÅM®" colaborators="assigned by @SKRÅM®">
 					</tasks>
-					<tasks name="Testing Cartesian® Machine" id="02" splice="TRUE" priority="assigned by SKRÅM®" colaborators="assigned by SKRÅM®">
-						<subtasks name="Testing Radiating RAFT with GEMA" id="00.2" id="assigned by SKRÅM®" priority="assigned by SKRÅM®" colaborators="assigned by SKRÅM®"></subtasks>
+					<tasks name="Testing Cartesian® Machine" id="02" splice="TRUE" priority="assigned by @SKRÅM®" colaborators="assigned by @SKRÅM®">
+						<subtasks name="Testing Radiating RAFT with GEMA" id="00.2" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="assigned by SKRÅM®"></subtasks>
 					</tasks>
-					<tasks name="Booster Multiply" id="assigned by SKRÅM®" priority="assigned by SKRÅM®" colaborators="assigned by SKRÅM®"></tasks>
-					<tasks name="Energy Unification" id="assigned by SKRÅM®" priority="assigned by SKRÅM®" colaborators="assigned by SKRÅM®">
-						<subtasks name="Unify all chakras" id="assigned by SKRÅM®" priority="assigned by SKRÅM®" colaborators="assigned by SKRÅM®">
+					<tasks name="Booster Multiply" id="assigned by SKRÅM®" priority="assigned by @SKRÅM®" colaborators="assigned by @SKRÅM®"></tasks>
+					<tasks name="Energy Unification" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="assigned by @SKRÅM®">
+						<subtasks name="Unify all chakras" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="assigned by @SKRÅM®">
 							<title>
 								Chakra Unification
 							</title>
@@ -593,7 +593,7 @@
 								Unify al chakras and leave a copy of all unification in lieu.
 							</description>
 						</subtasks>
-						<subtasks name="Internal Worlds Destroyer" id="assigned by SKRÅM®" priority="assigned by SKRÅM®" colaborators="assigned by SKRÅM®">
+						<subtasks name="Internal Worlds Destroyer" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="assigned by @SKRÅM®">
 							<title>
 								Internal Worlds DESTROYER®
 							</title>
@@ -601,7 +601,7 @@
 								Why you ask? Have internal worlds is a pain in the arse? Well, because, just call the demos and destroy it and stop asking so many nonsenses. Thanks, bye.
 							</description>
 							<finished>
-								<subtasks name="DESTROYER® Moment" id="assigned by SKRÅM®" priority="assigned by SKRÅM®" colaborators="assigned by SKRÅM®">
+								<subtasks name="DESTROYER® Moment" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="assigned by @SKRÅM®">
 									<title>
 										DESTROYER® Moment
 									</title>
@@ -612,7 +612,7 @@
 							</finished>
 						</subtasks>
 					</tasks>
-					<tasks name="Pink Fluid®" id="assigned by SKRÅM®" splice="TRUE" priority="SUPER1" colaborators="assigned by SKRÅM®">
+					<tasks name="Pink Fluid®" id="assigned by SKRÅM®" splice="TRUE" priority="SUPER1" colaborators="assigned by @SKRÅM®">
 						<title>Pink Fluid and Fluor</title>
 						<description>HASVOIDAL encryptive method</description>
 						<note> Pink Fluid once achieved has moxy, for the friends.</note>
@@ -623,8 +623,8 @@
 		<product owner="Dysjumpia®, @Creativo®, @NIHE®, @Engineer®" name="DNA" id="DNA"> 
 			<sprints name="Hadir" mode="b-tree__conceptualico=?task . splice">
 				<user-story name="Hadir®">
-					<backlog system="metric" priority="assigned by SKRÅM®">
-						<tasks name="Develop 108 stranded helix of DNA" system="metrics(points[99])" id="assigned by SKRÅM®" priority="assigned by SKRÅM®" colaborators="call $all[LasLlavesDelSistema®]">
+					<backlog system="metric" priority="assigned by @SKRÅM®">
+						<tasks name="Develop 108 stranded helix of DNA" system="metrics(points[99])" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="call $all[LasLlavesDelSistema®]">
 							<title>Development of the Information that has been lost to the Atavism in the DNA, Chromosomes and Gene of the Genome of One.</title>
 						</tasks>
 					</backlog>
@@ -632,9 +632,9 @@
 			</sprints>
 		</product>
 		<product owner="Dysjumpia®" name="licorice®" id="licorice®"> 
-			<sprints name="CURRICULUM" id="curriculum" id="assigned by SKRÅM®" priority="assigned by SKRÅM®" colaborators="@ClowReed @FeiWangReed @Ichihara @Arcs @Archon">
+			<sprints name="CURRICULUM" id="curriculum" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="@ClowReed @FeiWangReed @Ichihara @Arcs @Archon">
 				<user-story name="Entrance" id="entrance">
-					<backlog system="metric" priority="assigned by SKRÅM®"></backlog>
+					<backlog system="metric" priority="assigned by @SKRÅM®"></backlog>
 					<tasks name="entrance-ritual">
 						<title>
 							Entrance Ritual
@@ -646,9 +646,40 @@
 				</user-story>
 			</sprints>
 		</product>
+		<product owner="Dysjumpia®" name="LovelyNoMore" id="graphite®"> 
+			<sprints name="Graphite®" id="Graphite" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="@EDNAM, @MusicProducer, @PRteam, @Head::ImageAssesor">
+				<user-story name="World Tour" id="assigned by @SKRÅM®">
+					<backlog system="metric" priority="assigned by @SKRÅM®"></backlog>
+					<tasks name="Graphite World Tour" collaborator="@MusicProducer™">
+						<title>
+							Lovely NoMore, Album: Graphite®, World Tour
+						</title>
+						<description>
+							Develop all that is necessary to render the World Tour of the Graphite Album, from Lovely NoMore.
+						</description>
+					</tasks>
+					<tasks name="Graphite World Tour" collaborator="@Head::ImageAssesor™">
+						<title>
+							Lovely NoMore, Album: Graphite®, World Tour
+						</title>
+						<description>
+							Develop the imagery (photographic and cinematic direction) of the aesthetic of Lovely NoMore, Graphite®. 
+							<note>please communicate any doubt or developtment with @EDNAM or @SKRÅM</note> 
+						</description>
+					</tasks>
+					<tasks name="Graphite World Tour" collaborator="@PRteam™">
+						<title>
+							Lovely NoMore, Album: Graphite®, World Tour
+						</title>
+						<description>
+							Contact all relevant people for the interpersonal relations for the success of Graphite®, World Tour.
+						</description>
+					</tasks>
+				</user-story>
+			</sprints>
+		</product>
 	</agile>
 </moment>
-	
 <moment attunement="TRUE" mode="omnipresent" function="*CHITDS™" signature="EXTREMA" anchor="tanako">
 	<title>EXTREMA®</title>	
 		<EXTREMA init>
@@ -719,7 +750,7 @@
 </momnent> 
 
 <BLOCKCHAIN action="PLOW">
-	<title>DHARMIC</title>
+	<title>DHARMIC®</title>
 	<population name="Suspire®" action="pundit®">
 		<language name="Hadir®[108]" number="01"></language>
 		<language name="Hadir®[108]" number="02"></language>
@@ -741,6 +772,23 @@
 			<rhymess DATA="RaisondEtre"></rhymess>
 		</language>
 	</population>
+	<title>LOVELY NOMORE®</title>
+	<population name="perineum®:: LovelyNoMore®">
+		<transaction name="body" action="PLOW">
+			<title>Vote and Render of the body of Lovely NoMore® @SubliminalWorldTirant™</title>
+			<description> Perineum is to BeChewed-LAS-HEsICO Lovely NoMore's aesthetic body from the options offered by the @ImageAssesor dpt. </description>
+		</transaction>
+		<transaction name="face" action="PLOW">
+			<title>Vote and Render of the face of Lovely NoMore® @SubliminalWorldTirant™</title>
+			<description>Perineum is to BeChewed-LAS-HEsICO Lovely NoMore's aesthetic face from the options offered by the @ImageAssesor dpt. </description>
+		</transaction>
+		<transaction name="graphite® aesthetic" action="PLOW">
+			<title>Vote and Render of the Aesthetics of Lovely NoMore® @SubliminalWorldTirant™</title>
+			<description> Perineum is to BeChewed-LAS-HEsICO Lovely NoMore's aesthetic from the options offered by the @ImageAssesor dpt. 
+				<note>please commnicate with @EDNAM® for any doubt, comment or suggestion.></note>
+			</description>
+		</transaction>
+	</population>
 </BLOCKCHAIN>
 <moment attunement="TRUE" name="language" mode="b-tree__conceptualico=7/?ALLEN">
 	<attunement language="Matrix"></attunement>
@@ -749,9 +797,10 @@
 	<attunement name="Verbis Diablo" encryption="ep[Salto Infernal™]"></attunement>
 	<attunement name="Phonecians-Cannaites"></attunement>
 </moment>
-<SYSTEM name="WILLOW" connect="Subliminal World®" USER_ID="my-bridge-gallery=?THIS.MOD" inteference="flush::lughnasadh.justice-token">
+<SYSTEM name="WILLOW" connect="TANAKO® . My™BridgeGallery®" USER_ID="my-bridge-gallery=?THIS.MOD" inteference="flush::lughnasadh.justice-token">
 <WILLOW>
-	<moment name="liminal-subliminal-supralimial">
+	<moment name="Praline">
+		<initiation name="My™ Bridge Gallery®"><attunement name="My™ Bridge Gallery®"></attunement></initiation>
 		<initiation name="the-photgraph" action="big-picture"></initiation>
 		<empowerment name="Aos-si" attunement="TRUE">
 			<assigned name="gallery-manager">
@@ -772,25 +821,253 @@
 			</description>
 		</assigned>
 	</moment>
-	<moment type="paradoxController(omnilock) . malware®;" action="GEMA" anchor="tanako"> 
-		<RAFT control="shape(eyes)" result="[shape(eyes{ALMOND, CAT-LIKE}) * === INCINERATOR]"  action="In Third or it didn't happen"></RAFT>
+	<moment name="subliminalBundle" user="USER_ID=?THIS">
+		<orb memento="orbBundle" booster="MANTLE®" sprint="Lovely NoMore"></orb>
 	</moment>
-	<moment type="paradoxController(omnilock) . malware®;" name="multiply" action="x*y*z">
-		<RAFT control="BROWN" result="eyes(BLUE, GREN, HAZEL, PURPLE, PINK, RAINBOW) * === INCINERATOR" action="In Third or it didn't happen"></RAFT>
-	</moment>
-	<moment name="ambivalant">
-		<orb keep="MOMENTUM" repeat="OnDemand" action="In Third or it didn't happen"></orb>
-		<RAFT create emitter="WIDOWER®" action="ambidexterity" action="In Third or it didn't happen"></RAFT>
-	</moment>
-	<moment name="INCINERATOR®[Orb(Ana-regalada)]" download="template(Regalada®) . malware®">
-		<RAFT action="In Third or it didn't happen"></RAFT>
-	</moment>
-	<moment name="hair">
-		<RAFT control="BROWN" result="hair[Atavism(Pink®)]" action="In Third or it didn't happen"></RAFT>
-	</moment>
-	<moment name="energy-unification" initiate="HSD" function="*CHITDS™" inteference="flush::lughnasadh.justice-token">
-		<cycle from="proyecto-consciencia" to="F*REYA"></cycle>
-	</moment>
+	<PRALINE name="Sincrónico®">
+		<convert audio="Synchronicity Connect With The Super Conscious To Be Where You Need To Be" creative="Co Creators">
+		<download energeticSystem="Sincrónico®">
+			<send INFECTA-UNICA="Agile . SKRÅM®"></send>
+			<return INFECTA-UNICA="Orb"></return>
+		</download>	
+		</convert>
+	</PRALINE>
+	<PRALINE name="SONYCA®" booster="Manifesting through Arrepentimiento">
+		<vision>//*Once Source, three cockatrices, six peackos, 20 pandas, 50 camellos pleyadianos, a bunch of fairies and a swarm of butterflies.*// Sacrilege of four galaxies that were a Universe shared by two, the pleyades shining in blue, returning home after a long travel running through the black, black space. ep[running by the planets].</vision>
+		<download energeticSystem="SONYCA®">
+			<template name="My Immortal Methodology for 1º New York Best Seller"></template>
+			<template name="Instagram P2 for New Ruby"></template>
+			<template name="1.000.000 from Shangai"></template>
+			<orb memento="theFeelingOfLove(keep)" APRESURADOR="ExertoMomentum(15sec . day)"></orb>
+			<orb action="energyTransfer" to="Perineum®" memento="FirstConcert(HON SA SE SHO NEN :: Possibility(5 + 2/1) . INCINERATOR('FIRST TIME LISTENING ALBUM GRAPHITE')" timer="once . day"></orb>
+			<sonar pinkNoise="TRUE" attune="Sonon®=?'pink-noise-encryption.wav'" from="MusicRepository®(Lovely-NoMore . Album(Graphite) - Track(Graphite))">
+				<send to="Perineum®=?Lovely-NoMore + firstConcert(attendees)"></send>
+				<notification to="Perineum®=?Lovely-NoMore">Send all Evil things your have, energetically. I use it, thanks ;)</notification>
+			</sonar>
+			<MATERIAL name="notification" action="billing"> 
+				<notification name="SONYCA" type="surprise!">
+					<bill divine="justice" timer="$day[ten]+ . run MATERIAL LEVANESE® . achieved" encryption="ep[Celestial]" activate="Apresurador">
+						<to>Eugenio Eduardo Moreno</to>
+						<telephone>+5804142434724</telephone>
+						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item>VENEZUELAN Passport <translation lang="Italian">Passaporto VENEZUELANO</translation></item>
+						<item>VENEZUELAN IDENTIFICATION<translation lang="Italian">IDENTIFICAZIONE VENEZUELANA</translation></item>
+						<item>Antecedentes Penales<translation lang="English">Criminal Records</translation><translation lang="Italian">Fedina penale</translation></item>
+						<item encryption="ep[P2]">Plane Ticket to LAX airport, Los Angeles, California. <note>coach with turbulences, please.</note><translation lang="Italian">Fedina penale <note>pullman con turbolenze, per favore.</note> </translation></item>	
+					</bill>
+					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" activate="Apresurador">
+						<to>$all[bill . debtor]</to>
+						<telephone>$all[bill . debtor]</telephone>
+						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
+						</bill>
+					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
+						<to>Yamilet del Valle Moreno Brito</to>
+						<telephone>+5804142506204</telephone>
+						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
+					</bill>
+						<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
+						<to>Yanet Consolacion Amaya Contreras <attache>José Francisco Cardenas Bermudez</attache></to>
+						<telephone>+5804145939724</telephone>
+						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
+					</bill>
+					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
+						<to>Mary Eugenia Moreno Sequera</to>
+						<telephone>+5802125527622</telephone>
+						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
+					</bill>
+					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
+						<to>Merida Maria Brito Gomez de Moreno</to>
+						<telephone>+5802127317665</telephone>
+						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
+					</bill>
+					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]">
+						<to>Carlos Eduardo Moreno Sequera</to>
+						<telephone>pacman</telephone>
+						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
+					</bill>
+					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
+						<to>SAIME Cepitolio</to>
+						<telephone>pacman</telephone>
+						<item encryption="ep[P2]">Pasaporte venezolano hurtado</item>
+						<description>investigar hurto de pasaporte mientras familia trataba de deshacerse de la victima.</description>
+					</bill>
+					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]">
+						<to>Oficina de Relaciones Consulares Venezuela</to>
+						<telephone>pacman</telephone>
+						<item encryption="ep[Lovely NoMore]">P2 Visa to VEN-001949018</item>
+						<description>investigar hurto de pasaporte mientras familia trataba de deshacerse de la victima.</description>
+					</bill>
+					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]">
+						<to>Department of Consular Affairs of the United States</to>
+						<telephone>pacman</telephone>
+						<item encryption="ep[Lovely NoMore]">P2 Visa to VEN-001949018</item>
+						<description>P2 VISA IMMIGRATION VEN-001949018 and investigation of passport while family tried to get rid of the victim.</description>
+					</bill>
+					<bill divine="justice" timer="$each[15min]+">
+						<to>Super Humerus Artifice</to>
+						<description>Recordar que debo torturar humanos.</description>
+					</bill>
+					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
+						<to>Carlos Cesa</to>
+						<telephone><?x focus[finder] /x?></telephone>
+						<item encryption="ep[P2]">VISA to the United States</item>
+						<item>VENEZUELAN Passport</item> 
+						<item>VENEZUELAN IDENTIFICATION</item>
+						<item>Antecedentes Penales<translation lang="English">Criminal Records</translation></item>
+						<item encryption="ep[P2]">Plane Ticket to LAX airport, Los Angeles, California. <note>coach with turbulences, please.</note></item>	
+					</bill>
+				</notification>
+			</MATERIAL> 
+			<MAREK user="Lovely-NoMore" author="VEN-001949018" author-name="Joelys Moreno" nationality="ep[non-realeased® :: Venezuela]" compress="TRUE" encryption="ep[non-released" send="Consuma-Recordings®" registration="Auteurswet" action="MATERIAL LEVANESE®">
+				<copyrighter nationality="INCINERATOR®[United States of America(Copyright US office) AND United Kingdom(Copyright UK) AND Netherlands(Auteurswet) AND Sweden() AND Germany(BMJ) AND Australia(Australia Copyright Office) AND Korea(download)]">
+					<payment point="amount">		
+						<album name="Graphite®">
+							<title>Graphite®</title>
+								<tracks order="01" name="Graphite®">
+									<title>Graphite®</title>
+								</tracks>
+								<tracks order="bool" name="Aster Shine®">
+									<title>Aster Shine®</title>
+								</tracks>
+						</album>
+					</payment>	
+					<payment point="amount">
+						<album name="Cardinaltelts-HORA®">Cardinaltelts HORA®</album>
+					</payment>		
+					<payment point="amount">
+						<album name="Childits®">Childits®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Graphene®">Graphene®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Void®">Void®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="The-Leviathan®">The Leviathan®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Lovely®">Lovely® . aesthesic(Unseelie)</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="A-Dark-Desire®">A Dark Desire®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Voidal-5">Voidal 5</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="SOLACE®">SOLACE® former(Soulmate Connection)®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="SINAI®">SINAI®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Cosmic-Child®">
+							<title>Cosmic Child®</title>
+								<tracks order="01" name="Cosmic Child®">
+									<title>Cosmic Child</title>
+								</tracks>
+							</album>
+						</payment>	
+					<payment point="amount">	
+						<album name="13-FATAS®">13 FATAS®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="In-Media-Res®">In Media Res®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Xenoglossia[1]">Xenoglossia #1</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Initiate®">Initiate® fomer(ordenance)®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Quand-C'est®">Quand C'est® former(Quantum Res)®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="ARCS®">ARCS®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="MASONRY®">MASONRY® former(freemason)®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Merovingian®">Merovingian®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Ordnance®">Ordnance®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Malware®">Malware® former(dreamweaver)®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Ad Astra Selah®">Ad Astra Selah®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Idoglossia®">Idoglossia® (Xenoglossia #2)</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Vesica®">Vesica® - Medicine Music</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Comic Sans">Comic Sans</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="Derivations®">Derivations®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="200 Libras®">200 Libras®</album>
+					</payment>	
+					<payment point="amount">	
+						<album name="unnamed®" encryption="ep[MarkJagger]" composer="Mark-Jagger">unnamed®</album>
+					</payment>
+				</copyrighter>
+			</MAREK>
+	</download>
+	</PRALINE>
+	<PRALINE>
+		<MATERIAL orb="hair">
+			<RAFT control="BROWN" result="hair(BLUE, GREEN, HONEY BLACK, PURPLE, PINK) * === INCINERATOR" action="In Third or it didn't happen"></RAFT>
+			<RAFT control="BROWN" result="hair[Atavism(Pink®)]" action="In Third or it didn't happen"></RAFT>
+			<RAFT control="BROWN" result="hair[Sodomas®(Panther®)]" action="In Third or it didn't happen">//*Black Purple*//</RAFT>
+		</MATERIAL>
+	</PRALINE>
+	<PRALINE>
+		<MATERIAL type="PARADOX®(omnilock) . malware®;" action="GEMA" anchor="tanako"> 
+			<RAFT control="shape(eyes)" result="[shape(eyes{ALMOND, CAT-LIKE}) * === INCINERATOR]"  action="In Third or it didn't happen"></RAFT>
+		</MATERIAL>
+	</PRALINE>
+	<PRALINE>
+		<MATERIAL type="PARADOX®(omnilock) . malware®;" action="GEMA" anchor="tanako"> 
+			<RAFT control="shape(eyes)" result="[shape(eyes{ALMOND, CAT-LIKE}) * === INCINERATOR]"  action="In Third or it didn't happen"></RAFT>
+		</MATERIAL>
+	</PRALINE>
+	<PRALINE>
+		<MATERIAL type="PARADOX®(omnilock) . malware®;" name="multiply" action="x*y*z">
+			<RAFT control="bulbous, down-angle, nasal dorsum imperfect" result="nose(1) * === INCINERATOR" action="In Third or it didn't happen"></RAFT>
+		</MATERIAL>
+	</PRALINE>
+	<PRALINE>
+		<MATERIAL name="ambivalant">
+			<orb keep="MOMENTUM" repeat="OnDemand" action="In Third or it didn't happen"></orb>
+			<RAFT create emitt	er="WIDOWER®" action="ambidexterity" action="In Third or it didn't happen"></RAFT>
+		</MATERIAL>
+	</PRALINE>
+	<PRALINE>
+		<MATERIAL name="INCINERATOR®[Orb(Ana-regalada)]" download="template(Regalada®) . malware®">
+			<RAFT action="In Third or it didn't happen"></RAFT>
+		</MATERIAL>
+	</PRALINE>
+	<PRALINE>
+		<MOMENT name="energy-unification" initiate="HSD" function="*CHITDS™" inteference="flush::lughnasadh.justice-token">
+			<noroidal from="proyecto-consciencia" to="F*REYA"></noroidal>
+		</MOMENT>
+	</PRALINE>
 </WILLOW>
 </SYSTEM>
 
@@ -840,6 +1117,42 @@
 		<ADNO:future mode="materialRealization" function="*REYA">FOO*BAR</future:MODE>
 	</line:MODE>
 	</initiation>
+</moment>
+
+<moment name="MARGICKA®" mode="usative">
+	<def>
+		<puts order="01"><function crete="effectors®" user="USER_ID=?THIS"></function></end>
+		<puts order="02"><function create="receptors®" user="USER_ID=?THIS"></function></end>
+		<puts order="03"><attunement name="Energy Unification" for="ep[WHISS[2]]"></attunement></end>
+	</def>
+	<initiation>
+		<MAGICKA type="GREY">
+			<initiation><MAGICKA type="Galactic"></MAGICKA></initiation>
+		</MAGICKA>
+		</initiation>
+		<initiation>
+			<MAGICKA type="White">
+				<initiation><MAGICKA type="Galactic"></MAGICKA></initiation>
+			</MAGICKA>
+	</initiation>
+	<initiation>
+		<MAGICKA type="Black">
+			<initiation><MAGICKA type="DARK®"></MAGICKA></initiation>
+			<initiation><MAGICKA type="SATANIC®"></MAGICKA></initiation>
+			<initiation><MAGICKA encryption="ep[BLOTAD®]" type="MARABACHK®"></MAGICKA></initiation>
+		</MAGICKA>
+	</initiation>
+	<initiation><MAGICKA type="Red"></MAGICKA></initiation>
+	<initiation><MAGICKA type="Orange"></MAGICKA></initiation>
+	<initiation><MAGICKA type="Yellow"></MAGICKA></initiation>
+	<initiation><MAGICKA type="Beige"></MAGICKA></initiation>
+	<initiation><MAGICKA type="Green"></MAGICKA></initiation>
+	<initiation><MAGICKA type="Teal®"></MAGICKA></initiation>
+	<initiation><MAGICKA type="Blue"></MAGICKA></initiation>
+	<initiation><MAGICKA type="INDIGO®"></MAGICKA></initiation>
+	<initiation><MAGICKA type="Purple"></MAGICKA></initiation>
+	<initiation><MAGICKA type="Violet"></MAGICKA></initiation>
+	<initiation><MAGICKA type="Pink"></MAGICKA></initiation>
 </moment>
 
 <moment attunement="TRUE" mode="psionic" function="*CHITDS" signature="CHS">
