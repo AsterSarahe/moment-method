@@ -56,7 +56,7 @@ require 'builder'
 			}
 			def RAFT {
 				type = [/[RAFT]/ /[^RAFT]/].cycle {
-					puts RAFT® :: SUSPIRE® |side(dominant)| copy |side(Nondominant)| end
+					puts [/mixtalizer  RAFT® :: SUSPIRE® |xy| end /]
 				}
 				type = [/[GEMA]/, /[^GEMA]/].cycle {
 					puts GEMA® :: control|RAFT| AND_THEN SUSPIRE® :: Cartesian® . accelerate(WIDOWER®) -> diamondTraditional(stereometry(58)) end 
