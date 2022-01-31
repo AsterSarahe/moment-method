@@ -56,7 +56,11 @@ require 'builder'
 			}
 			def RAFT {
 				type = [/[RAFT]/ /[^RAFT]/].cycle {
-					puts [/multiply  RAFT® :: SUSPIRE® |xy| end /]
+					puts [/multiply  RAFT® :: SUSPIRE® |foo bar baz| /multiply] end
+					
+				}
+				type = [/[GRADIENT]/ /[^GRADIENT]/].cycle {
+					puts [/meanwhile booster :: SUSPIRE® type=/lineal, radial, square & romboid/ |x|dither|y|dither|z|  /meanwhile] end
 				}
 				type = [/[GEMA]/, /[^GEMA]/].cycle {
 					puts GEMA® :: control|RAFT| AND_THEN SUSPIRE® :: Cartesian® . accelerate(WIDOWER®) -> diamondTraditional(stereometry(58)) end 
