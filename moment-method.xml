@@ -1,4 +1,6 @@
-<?xml $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions" focus="type=finder*" ?>	
+<?xml 
+
+$xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions" focus="type=finder*" ?>	
 <malware ease="ease-in-out">
 <accessconsciousness mode="compatible" function="redacto">
 <momentmethod mode="quantum-aperionated" signature="ESS" security="law[order]">
@@ -7,14 +9,14 @@
 <key name="YHVH" load>
 	<title>YHVH</title>
 		<description>
-			to be used when dealing with Statistics.
+			<p>to be used when dealing with Statistics.</p>
 		</description>
 	</key>
 </key>
 <key name="YAHWEH" load>
 	<title>YAHWEH</title>
 		<description>
-			to be used with things related with movement of creation.
+			<p>to be used with things related with movement of creation.</p>
 		</description>
 	</key>
 <key name="NIHE" load>
@@ -565,7 +567,7 @@
 			<sprints name="WILLOW®" mode="b-tree__conceptualico=?task . splice">
 				<user-story name="Cartesian®">
 					<backlog system="metric" priority="assigned by @SKRÅM®">
-						<tasks name="Wizard's Receptors and Effectors®" system="metrics(points[99])" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="@ClowReed @Arcs @ARCLovelyNoMore @Archons @ArchamgusLeage">
+						<tasks name="Wizard's Receptors and Effectors®" system="priority . metrics(points[99])" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="@ClowReed @Arcs @ARCLovelyNoMore @Archons @ArchamgusLeage">
 							<title>
 								Wizard's Receptors and Effectors®
 							</title>
@@ -619,12 +621,34 @@
 					</tasks>
 				</user-story>
 			</sprints>
+			<sprint product-owner="ep[MuertaPorElPalero::Joelys Eugenia Moreno Amaya]" name="ep[SPICA®::SONYCA®]" id="SONYCA">
+				<user-story>
+					<backlog system="metric" priority="assigned by @SKRÅM®">
+					</backlog>	
+						<tasks name="P2 VISA USA . terra[4]" system="priority . metrics(points[1])" id="assigned by @SKRÅM®" priority="DEFCOM[01]" colaborators="Perineum® . @LovelyNoMore®">
+							<title>
+								P2 Instagram for New Ruby®
+							</title>
+							<description>
+								Get P2 VISA.
+							</description>
+							<item>VISA P2</item>
+							<item>Pasaje de Avion</item>
+							<item>Cedula de identidad</item>
+							<item>Pasaporte</item>
+							<item>Antecedentes Penales 
+								<subitem>Legalizados</subitem>
+								<subitem>Apostille by the @Haye</subitem>
+							</item>
+						</tasks>
+				</user-story>
+			</sprint>
 		</product>
 		<product owner="Dysjumpia®, @Creativo®, @NIHE®, @Engineer®" name="DNA" id="DNA"> 
 			<sprints name="Hadir" mode="b-tree__conceptualico=?task . splice">
 				<user-story name="Hadir®">
 					<backlog system="metric" priority="assigned by @SKRÅM®">
-						<tasks name="Develop 108 stranded helix of DNA" system="metrics(points[99])" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="call $all[LasLlavesDelSistema®]">
+						<tasks name="Develop 108 stranded helix of DNA" system="priority . metrics(points[120])" id="assigned by @SKRÅM®" priority="assigned by @SKRÅM®" colaborators="call $all[LasLlavesDelSistema®]">
 							<title>Development of the Information that has been lost to the Atavism in the DNA, Chromosomes and Gene of the Genome of One.</title>
 						</tasks>
 					</backlog>
@@ -932,9 +956,9 @@
 								<tracks order="01" name="Graphite®">
 									<title>Graphite®</title>
 								</tracks>
-								<tracks order="bool" name="Aster Shine®">
+								<REDACTO><tracks order="bool" name="Aster Shine®">
 									<title>Aster Shine®</title>
-								</tracks>
+								</tracks></REDACTO>
 						</album>
 					</payment>	
 					<payment point="amount">
@@ -1025,6 +1049,44 @@
 					</payment>	
 					<payment point="amount">	
 						<album name="unnamed®" encryption="ep[MarkJagger]" composer="Mark-Jagger">unnamed®</album>
+					</payment>
+					<payment point="amount">	
+						<album name="witchy">Witchy®</album>
+					</payment>
+				</copyrighter>
+				<copyrighter nationality="INCINERATOR®[United States of America(Copyright US office) AND United Kingdom(Copyright UK) AND Netherlands(Auteurswet) AND Sweden() AND Germany() AND Australia(Australia Copyright Office) AND Korea(download)]">
+					<payment point="amount">
+						<ceteos>Hexadecimal Windows Quantic . Home Edition</ceteos>
+					</payment>
+					<payment point="amount">
+						<FIUDICIARY status="BETA-GAMMA">
+							<title>statistical[FE]</title>
+							<description> from five possibilities, synchronicity</description>
+						</FIUDICIARY>
+						<FIUDICIARY status="working">
+							<title>Fashion Design[HESIOD]</title>
+							<description>from Couturer to FATA, digamos.</description>
+						</FIUDICIARY>
+						<FIUDICIARY status="development">
+							<title>Finances</title>
+							<description>status: development.</description>
+						</FIUDICIARY>
+					</payment>
+					<payment point="amount">
+						<title>NIHE LABS®</title>
+						<description>to work from the Voidal HAVS 5</description>
+					</payment>
+					<payment point="amount">
+						<title>SYSTEM CONTROLLER</title>
+						<description>Redacted</description>
+					</payment>
+					<payment point="amount">
+						<title>LIFA</title>
+						<description>Life APP for subliminal changes.</description>
+					</payment>
+					<payment point="amount">
+						<EDNA><title>VISUAL MODE®</title>
+						<description>Development of DESIGN</description></MODE>
 					</payment>
 				</copyrighter>
 			</MAREK>
