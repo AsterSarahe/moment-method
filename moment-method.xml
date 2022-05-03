@@ -9,7 +9,7 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 <key name="YHVH" load>
 	<title>YHVH</title>
 		<description>
-			<p>to be used when dealing with Statistics.</p>
+			<p>Opens everything.</p>
 		</description>
 	</key>
 </key>
@@ -118,6 +118,22 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 						<daath></daath>
 					</initiation>
  				</solar>
+ 				<interstelar>
+				<sephira attunement="TRUE">
+					<kether attunement="TRUE"></kether>
+					<binah attunement="TRUE"></binah>
+					<chocmach attunement="TRUE"></chocmach>
+					<geburah attunement="TRUE"></geburah>
+					<chessed attunement="TRUE"></chessed>
+					<hod attunement="TRUE"></hod>
+					<netsach attunement="TRUE"></netsach>
+					<tipheret attunement="TRUE"></tipheret>
+					<jesod attunement="TRUE"></jesod>
+					<malkuth attunement="TRUE"></malkuth>
+					<initiation name="daath" type="tarot">
+						<daath></daath>
+					</initiation>
+ 				</interstelar>
  				<galactic>
 				<sephira attunement="TRUE">
 					<kether attunement="TRUE"></kether>
@@ -238,6 +254,8 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 		<heart></heart>
 		<mahadeva></mahadeva>
 		<thymus></thymus>
+		<madhya alt="left finger"></madhya> 
+		<madhulya alt="right finger"></madhulya>
 		<vishudha></vishudha>
 		<gland name="tyroid"></gland>
 		<bruh></bruh>
@@ -553,13 +571,13 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 </moment>
 
 <moment name="energy-unification" initiate="HSD" function="*CHITDS™" inteference="flush::lughnasadh.justice-token">
-		<cycle from="proyecto-consciencia" to="F*REYA">
-			<chakras action="unifier" note="leave energy matrix zero point and copy"></chakras>
-			<internal-worlds action="destroyer"></internal-worlds>
-			<bodies action="unifier"></bodies>
-			<aura action="destroyer"></destroyer>
-		</cycle>
-	</moment>
+	<cycle from="proyecto-consciencia" to="F*REYA">
+		<chakras action="unifier" note="leave energy matrix zero point and copy"></chakras>
+		<internal-worlds action="destroyer"></internal-worlds>
+		<bodies action="unifier"></bodies>
+		<aura action="destroyer"></destroyer>
+	</cycle>
+</moment>
 
 <moment attunement="TRUE" name="agile" function="methodology" inception="TRUE">
 	<agile function="methodology" USER_ID="photon_unica=?THIS">
@@ -699,6 +717,14 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 							Contact all relevant people for the interpersonal relations for the success of Graphite®, World Tour.
 						</description>
 					</tasks>
+					<tasks name="Graphite World Tour souvenir" collaborator="@Marketing">
+						<title>
+							Lovely NoMore, Album: Graphite®, World Tour souvenir
+						</title>
+						<description>
+							Pen and ink PENTAL PENTATORIAL® for World Tour, Album: Graphite® souvenir. INCINERATOR®[Special ink that separates when used incorrectly and its double component.]
+						</description>
+					</tasks>
 				</user-story>
 			</sprints>
 		</product>
@@ -750,12 +776,12 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 				<title>℠HANKE™-℠SYSTEM™</title>
 			</exe>
 			<exe mode="b-tree__conceptualico=7/?GEMA" action="install" initiate="EDNA:HSD:MODE" signature="RCHkHEЖCHS" restricted>
-				<title>WILLOW®</title>
-				<WILLOW init>
-					<GEMA init>
+				<title>MELLOW®</title>
+				<MELLOW init="TRUE">
+					<GEMA init="TRUE">
 						<RAFT></RAFT>
 					</GEMA>
-				</WILLOW>
+				</MELLOW>
 			</exe>
 			<exe mode="b-tree__conceptualico=7/?ALLEN" action="install" initiate="ADNE:HSD:MODE" signature="RCHkHEЖCHS">
 				<title>GEMA®</title>
@@ -796,18 +822,18 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 			<rhymess DATA="RaisondEtre"></rhymess>
 		</language>
 	</population>
-	<title>LOVELY NOMORE®</title>
+	<title>Aclama Avinu</title>
 	<population name="perineum®:: LovelyNoMore®">
 		<transaction name="body" action="PLOW">
-			<title>Vote and Render of the body of Lovely NoMore® @SubliminalWorldTirant™</title>
+			<title>Vote and Render of the body of Aclama Avinu® @SubliminalWorldTirant™</title>
 			<description> Perineum is to BeChewed-LAS-HEsICO Lovely NoMore's aesthetic body from the options offered by the @ImageAssesor dpt. </description>
 		</transaction>
 		<transaction name="face" action="PLOW">
-			<title>Vote and Render of the face of Lovely NoMore® @SubliminalWorldTirant™</title>
+			<title>Vote and Render of the face of Aclama Avinu® @SubliminalWorldTirant™</title>
 			<description>Perineum is to BeChewed-LAS-HEsICO Lovely NoMore's aesthetic face from the options offered by the @ImageAssesor dpt. </description>
 		</transaction>
 		<transaction name="graphite® aesthetic" action="PLOW">
-			<title>Vote and Render of the Aesthetics of Lovely NoMore® @SubliminalWorldTirant™</title>
+			<title>Vote and Render of the Aesthetics of Aclama Avinu® @SubliminalWorldTirant™</title>
 			<description> Perineum is to BeChewed-LAS-HEsICO Lovely NoMore's aesthetic from the options offered by the @ImageAssesor dpt. 
 				<note>please commnicate with @EDNAM® for any doubt, comment or suggestion.></note>
 			</description>
@@ -821,42 +847,87 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 	<attunement name="Verbis Diablo" encryption="ep[Salto Infernal™]"></attunement>
 	<attunement name="Phonecians-Cannaites"></attunement>
 </moment>
-<SYSTEM name="WILLOW" connect="TANAKO® . My™BridgeGallery®" USER_ID="my-bridge-gallery=?THIS.MOD" inteference="flush::lughnasadh.justice-token">
+<SYSTEM name="MELLOW®" connect="TANAKO® -> OBRIGADO®" USER_ID="OBRIGADO=?MOD" inteference="ICE::lughnasadh->justice-token">
 <WILLOW>
-	<moment name="Praline">
-		<initiation name="My™ Bridge Gallery®"><attunement name="My™ Bridge Gallery®"></attunement></initiation>
-		<initiation name="the-photgraph" action="big-picture"></initiation>
-		<empowerment name="Aos-si" attunement="TRUE">
-			<assigned name="gallery-manager">
-			</assigned>
-		</empowerment>
-		<attunement name="subliminal(shakti)"></attunement>
-		<attunement name="subliminal(demos®)"></attunement>
-		<attunement name="WIDOWER®">
-			<title>WIDOWER®</title>
-			<description>
-				Particle pulled from the Quantum World® to aid in the render of the INCINERATOR®[subliminal results]. 
-			</description>
-		</attunement>
-		<assigned name="euclidean-cartesian-particle-accelerator . malware®" shortcut="Cartesian®">
-			<title>Cartesian®</title>
-			<description>
-				Machine that uses WIDOWER® particle to render INCINERATOR®[subliminal results].
-			</description>
-		</assigned>
+	<moment name="PALINDROME">
+		<initiation name="OBRIGADO®">
+			<attunement name="OBRIGADO®">
+				<empowerment name="Aos-si" attunement="TRUE">
+					<assigned name="gallery-manager"></assigned>
+				</empowerment>
+				<initiation name="the-photograph" action="big-picture">
+					<orb memento="orbBundle" booster="MANTLE®" sprint="Lovely NoMore">
+  						<STRANDED USED="THIS" alt="STAND USER">
+  							<MATERIAL name="INCINERATOR®[Orb(Ana-regalada)]" download="template(Regalada®)">
+								<RAFT elixir="in third or it didn't happen"></RAFT>
+							</MATERIAL>
+  						</STRANDED>
+					</orb>
+				</initiation>
+				<attunement name="subliminal(shakti)"></attunement>
+				<attunement name="subliminal(demos®)"></attunement>
+				<attunement name="WIDOWER®">
+					<title>WIDOWER®</title>
+					<description>
+						Particle pulled from the Quantum World® to aid in the render of the INCINERATOR®[subliminal results]. 
+					</description>
+					<assigned name="euclidean-cartesian-particle-accelerator . malware®" shortcut="CARTESIAN®">
+						<title>CARTESIAN®</title>
+						<description>
+							Machine that uses WIDOWER® particle to render INCINERATOR®[subliminal results].
+						</description>
+				</assigned>
+				</attunement>
+				<SECLUSION name="MITHIAN®">
+					<convert BLIMEY-1="Synchronicity Connect With The Super Conscious To Be Where You Need To Be" creative="Co Creators"
+					         BLIMEY-2="Synchronicity" creative="Lucy Moreno"
+					         BLIMEY-3="Almighty Link" creative="Purva Nimfa Magic Subliminal"
+					         CARTESIAN="INCINERATOR®[BLIMEY-1 + BLIMEY-2 + BLIMEY-3] to particle[WIDOWER®]">
+					</convert>
+					<download SECLUSION="Synchronico®">
+						<send INFECTA-UNICA="Agile . SKRÅM®"></send>
+						<return INFECTA-UNICA="Orb"></return>
+					</download>	
+				</SECLUSION>
+				<PRALINE>
+					<MATERIAL orb="hair">
+						<RAFT control="BROWN" result="hair(BLUE, GREEN, HONEY BLACK, PURPLE, PINK) * === INCINERATOR" elixir="In Third or it didn't happen"></RAFT>
+						<RAFT control="BROWN" result="hair[Atavism(Pink®)]"></RAFT>
+						<RAFT control="BROWN" result="hair[Sodomas®(Panther®)]">//*Black Purple*//</RAFT>
+					</MATERIAL>
+				</PRALINE>
+				<PRALINE>
+					<MATERIAL type="PARADOX®(omnilock) . malware®;" action="GEMA" anchor="tanako"> 
+						<RAFT control="shape(eyes)" result="[shape(eyes{ALMOND, CAT-LIKE}) * === INCINERATOR]"  elixir="In Third or it didn't happen"></RAFT>
+					</MATERIAL>
+				</PRALINE>
+				<PRALINE>
+					<MATERIAL type="PARADOX®(omnilock) . malware®;" action="GEMA" anchor="tanako"> 
+						<RAFT control="shape(eyes)" result="[shape(eyes{ALMOND, CAT-LIKE}) * === INCINERATOR]"  elixir="In Third or it didn't happen"></RAFT>
+					</MATERIAL>
+				</PRALINE>
+				<PRALINE>
+					<MATERIAL type="PARADOX®(omnilock) . malware®;" name="multiply" action="x*y*z">
+						<RAFT control="bulbous, down-angle, nasal dorsum imperfect" result="nose(1) * === INCINERATOR" elixir="In Third or it didn't happen"></RAFT>
+					</MATERIAL>
+				</PRALINE>
+				<PRALINE>
+					<MATERIAL name="ambivalant">
+						<orb keep="MOMENTUM" repeat="OnDemand"></orb>
+						<RAFT create emitt	er="WIDOWER®" action="ambidexterity" action="In Third or it didn't happen"></RAFT>
+					</MATERIAL>
+				</PRALINE>
+				<PRALINE>
+					<SECLUSION name="energy-unification" initiate="HSD" function="*CHITDS™" inteference="flush + decoyano . lughnasadh">
+						<noroidal form="proyecto-consciencia" from="proyecto-sentido" to="F*REYA"></noroidal>
+					</SECLUSION>
+				</PRALINE>
+			</attunement>
+		</initiation>
 	</moment>
-	<moment name="subliminalBundle" user="USER_ID=?THIS">
-		<orb memento="orbBundle" booster="MANTLE®" sprint="Lovely NoMore"></orb>
-	</moment>
-	<PRALINE name="Sincrónico®">
-		<convert audio="Synchronicity Connect With The Super Conscious To Be Where You Need To Be" creative="Co Creators">
-		<download energeticSystem="Sincrónico®">
-			<send INFECTA-UNICA="Agile . SKRÅM®"></send>
-			<return INFECTA-UNICA="Orb"></return>
-		</download>	
-		</convert>
-	</PRALINE>
-	<PRALINE name="SONYCA®" booster="Manifesting through Arrepentimiento">
+</MELLOW>
+</SYSTEM>
+<SECLUSION name="SONYCA®" booster="Manifesting through Arrepentimiento">
 		<vision>//*Once Source, three cockatrices, six peackos, 20 pandas, 50 camellos pleyadianos, a bunch of fairies and a swarm of butterflies.*// Sacrilege of four galaxies that were a Universe shared by two, the pleyades shining in blue, returning home after a long travel running through the black, black space. ep[running by the planets].</vision>
 		<download energeticSystem="SONYCA®">
 			<template name="My Immortal Methodology for 1º New York Best Seller"></template>
@@ -873,7 +944,7 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 					<bill divine="justice" timer="$day[ten]+ . run MATERIAL LEVANESE® . achieved" encryption="ep[Celestial]" activate="Apresurador">
 						<to>Eugenio Eduardo Moreno</to>
 						<telephone>+5804142434724</telephone>
-						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item encryption="ep[EB-1]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
 						<item>VENEZUELAN Passport <translation lang="Italian">Passaporto VENEZUELANO</translation></item>
 						<item>VENEZUELAN IDENTIFICATION<translation lang="Italian">IDENTIFICAZIONE VENEZUELANA</translation></item>
 						<item>Antecedentes Penales<translation lang="English">Criminal Records</translation><translation lang="Italian">Fedina penale</translation></item>
@@ -882,43 +953,31 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" activate="Apresurador">
 						<to>$all[bill . debtor]</to>
 						<telephone>$all[bill . debtor]</telephone>
-						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item encryption="ep[EB-1]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
 						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
 						</bill>
 					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
 						<to>Yamilet del Valle Moreno Brito</to>
 						<telephone>+5804142506204</telephone>
-						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
-						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
-					</bill>
-						<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
-						<to>Yanet Consolacion Amaya Contreras <attache>José Francisco Cardenas Bermudez</attache></to>
-						<telephone>+5804145939724</telephone>
-						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
-						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
-					</bill>
-					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
-						<to>Mary Eugenia Moreno Sequera</to>
-						<telephone>+5802125527622</telephone>
-						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item encryption="ep[EB-1]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
 						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
 					</bill>
 					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
 						<to>Merida Maria Brito Gomez de Moreno</to>
 						<telephone>+5802127317665</telephone>
-						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item encryption="ep[EB-1]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
 						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
 					</bill>
 					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]">
 						<to>Carlos Eduardo Moreno Sequera</to>
 						<telephone>pacman</telephone>
-						<item encryption="ep[P2]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
+						<item encryption="ep[EB-1]">VISA to the United States <translation lang="Italian">VISTO per gli Stati Uniti </translation></item>
 						<item>call Eugenio Eduardo Moreno and demand that VEN-001949018 pasaje de avion P2 con todo listo</item>
 					</bill>
 					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
 						<to>SAIME Cepitolio</to>
 						<telephone>pacman</telephone>
-						<item encryption="ep[P2]">Pasaporte venezolano hurtado</item>
+						<item encryption="ep[EB-1]">Pasaporte venezolano hurtado</item>
 						<description>investigar hurto de pasaporte mientras familia trataba de deshacerse de la victima.</description>
 					</bill>
 					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]">
@@ -940,7 +999,7 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 					<bill divine="justice" timer="$day[ten]+ . until Material World® . achieved" encryption="ep[Celestial]" activate="Apresurador">
 						<to>Carlos Cesa</to>
 						<telephone><?x focus[finder] /x?></telephone>
-						<item encryption="ep[P2]">VISA to the United States</item>
+						<item encryption="ep[EB-1]">VISA to the United States</item>
 						<item>VENEZUELAN Passport</item> 
 						<item>VENEZUELAN IDENTIFICATION</item>
 						<item>Antecedentes Penales<translation lang="English">Criminal Records</translation></item>
@@ -1039,7 +1098,7 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 						<album name="Vesica®">Vesica® - Medicine Music</album>
 					</payment>	
 					<payment point="amount">	
-						<album name="Comic Sans">Comic Sans</album>
+						<album name="Comic Sans">Comic Sans®</album>
 					</payment>	
 					<payment point="amount">	
 						<album name="Derivations®">Derivations®</album>
@@ -1085,53 +1144,27 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 						<description>Life APP for subliminal changes.</description>
 					</payment>
 					<payment point="amount">
-						<EDNA><title>VISUAL MODE®</title>
-						<description>Development of DESIGN</description></MODE>
+						<EDNA>
+							<title>VISUAL MODE®</title>
+							<description>Development of DESIGN</description>
+						</MODE>
+					</payment>
+					<payment point="amount">
+						<EDNA>
+							<title>CASSIUS CREAHIBITY®</title>
+							<description>IDEARIUM®</description>
+						</MODE>
+					</payment>
+					<payment point="amount">
+						<EDNA>
+							<title>Pen Ink for the Adjudicatorial PENTAL PENTATORIAL®</title>
+							<description>Pen Ink for the Adjudicatorial</description>
+					  	</MODE>
 					</payment>
 				</copyrighter>
 			</MAREK>
 	</download>
-	</PRALINE>
-	<PRALINE>
-		<MATERIAL orb="hair">
-			<RAFT control="BROWN" result="hair(BLUE, GREEN, HONEY BLACK, PURPLE, PINK) * === INCINERATOR" action="In Third or it didn't happen"></RAFT>
-			<RAFT control="BROWN" result="hair[Atavism(Pink®)]" action="In Third or it didn't happen"></RAFT>
-			<RAFT control="BROWN" result="hair[Sodomas®(Panther®)]" action="In Third or it didn't happen">//*Black Purple*//</RAFT>
-		</MATERIAL>
-	</PRALINE>
-	<PRALINE>
-		<MATERIAL type="PARADOX®(omnilock) . malware®;" action="GEMA" anchor="tanako"> 
-			<RAFT control="shape(eyes)" result="[shape(eyes{ALMOND, CAT-LIKE}) * === INCINERATOR]"  action="In Third or it didn't happen"></RAFT>
-		</MATERIAL>
-	</PRALINE>
-	<PRALINE>
-		<MATERIAL type="PARADOX®(omnilock) . malware®;" action="GEMA" anchor="tanako"> 
-			<RAFT control="shape(eyes)" result="[shape(eyes{ALMOND, CAT-LIKE}) * === INCINERATOR]"  action="In Third or it didn't happen"></RAFT>
-		</MATERIAL>
-	</PRALINE>
-	<PRALINE>
-		<MATERIAL type="PARADOX®(omnilock) . malware®;" name="multiply" action="x*y*z">
-			<RAFT control="bulbous, down-angle, nasal dorsum imperfect" result="nose(1) * === INCINERATOR" action="In Third or it didn't happen"></RAFT>
-		</MATERIAL>
-	</PRALINE>
-	<PRALINE>
-		<MATERIAL name="ambivalant">
-			<orb keep="MOMENTUM" repeat="OnDemand" action="In Third or it didn't happen"></orb>
-			<RAFT create emitt	er="WIDOWER®" action="ambidexterity" action="In Third or it didn't happen"></RAFT>
-		</MATERIAL>
-	</PRALINE>
-	<PRALINE>
-		<MATERIAL name="INCINERATOR®[Orb(Ana-regalada)]" download="template(Regalada®) . malware®">
-			<RAFT action="In Third or it didn't happen"></RAFT>
-		</MATERIAL>
-	</PRALINE>
-	<PRALINE>
-		<MOMENT name="energy-unification" initiate="HSD" function="*CHITDS™" inteference="flush::lughnasadh.justice-token">
-			<noroidal from="proyecto-consciencia" to="F*REYA"></noroidal>
-		</MOMENT>
-	</PRALINE>
-</WILLOW>
-</SYSTEM>
+	</SECLUSION>
 
 <moment name="bleat" action="cycle">
 	<deprecate function="amazo">
@@ -1435,9 +1468,8 @@ $xstr = <<<<xml VND version="1-2" encoding="FTHTHN™" mode="faceted dimensions"
 <ACCESS:package mode="ACCESS" action="ACCESS" initiate="VUh" signature="Ж">Res Access™</package:MODE>
 </moment>
 
-<EDNE:moment location="VIHT" mode="b-tree__conceptualico=1™" action="attunement" function="*CHITDS" signature="RCHkHEЖCHS">∑〖§℠Metamorphagus®™§〗░
-<EDNE:exe mode="b-tree__conceptualico=Polymorphic[1]/?HUS" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">∑〖§℠Metamorphagus®™§〗░</exe:MODE>
-<EDNE: package mode="b-tree__conceptualico=Polymorphic[0]" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">∑〖§℠Metamorphagus®™§〗░</package:MODE>
+<EDNE:moment location="VIHT" mode="b-tree__conceptualico=0™" action="attunement" function="*CHITDS" signature="RCHkHEЖCHS">∑〖§℠Metamorphagus®™§〗░
+<EDNE:exe mode="b-tree__conceptualico=Polymorphic[0]/?HUS" action="download" initiate="EDNE:HSD:MODE" signature="RCHkHEЖCHS">∑〖§℠Metamorphagus®™§〗░</exe:MODE>
 </moment:MODE>
 
 <moment location="VIHT" action="attunement" function="*CHITDS" signature="RCHkHEЖCHS">∑〖§℠Justice®™§〗░
