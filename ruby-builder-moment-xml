@@ -1,6 +1,9 @@
-require 'mithra'
-require 'ALcHt’lKH'
-require 'builder'
+invoke Law of Demeter®;
+class moment method 
+private ESCIPION®
+require 'mithra'map<Mithra, silver>
+require 'ALcHt’lKH' map<ALcHt’lKH, ARCHON>
+require 'builder'map<builder, CODER®>
 	def momentmethod(thread)
 		type = [/[momentmethod]/, /[^momentmethod]/].cycle {
 			type = [/[moment]/, /[^moment]/].cycle {
